@@ -2,7 +2,7 @@
 ### - 🔭 Give me the Fire
 ### - 🌱 Propler MM
 ### - 👯 In 17 Octo 2021
-### - 🤔 I’m looking Your Heart
+### - 🤔 Ngaji acan njir?
 ### - 💬 No Coment Bangsad
 <!--
 **Mr-Gabut/Mr-Gabut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

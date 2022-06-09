@@ -18,7 +18,9 @@
 ## My Team 
 ### Rexus Five
 <p><img src="https://github.com/Mr-Gabut/Mr-Gabut/blob/main/20210313_144052.png" alt="Error Image" width="100%" align-items="center"/></p>
+
 ### Member
+
 > Arif Efendy
 > Rizal Fadhilah
 > Mario Al Qadiry

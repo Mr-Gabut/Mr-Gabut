@@ -1,4 +1,4 @@
-# Mr-Gabut, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">
+# Mr-Gabut, 
 <p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-Gabut&show_icons=true&locale=en&layout=compact&theme=radical" alt="FireMe" /></p>
 
 ### Hi Cupu | Mao Ngerecode?
@@ -21,14 +21,11 @@
 
 ### Member
 
+```
 > Arif Efendy
-
 > Rizal Fadhilah
-
 > Mario Al Qadiry
-
 > Zumalay
-
 > Rizky Rohiban
-
 > Me🙄
+```

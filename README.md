@@ -17,4 +17,4 @@
 
 # My Team 
 ### Rexus Five
-<p><img src="https://github.com/Mr-Gabut/Mr-Gabut/blob/main/20210313_144052.png" alt="Error Image" width="50%"  align-items="center"/></p>
+<p><img src="https://github.com/Mr-Gabut/Mr-Gabut/blob/main/20210313_144052.png" alt="Error Image" width="50%" align-items="center"/></p>
